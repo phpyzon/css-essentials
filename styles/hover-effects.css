@@ -1,0 +1,12 @@
+.hover-box {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.hover-box:hover {
+  background-color: #45a049;
+}
