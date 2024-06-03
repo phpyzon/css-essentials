@@ -94,13 +94,13 @@ Implementiere Dark Mode, um deine Webseite an die Systemeinstellungen der Nutzer
 1. Klone dieses Repository:
 
    ```bash
-   git clone https://github.com/dein-benutzername/CSS-Tricks.git
+   git clone https://github.com/phpyzon/css-essentials.git
    ```
 
 2. Wechsle in das Verzeichnis:
 
    ```bash
-   cd CSS-Tricks
+   cd css-essentials
    ```
 
 3. Öffne die HTML-Dateien in deinem Browser, um die Beispiele anzusehen und mit dem Code zu experimentieren.
